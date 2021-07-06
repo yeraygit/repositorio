@@ -1,0 +1,3 @@
+1) Escribir todo en ingles.
+2) Declarar las variables con un nombre asociado y intuitivo a su uso (corto y con significado obvio).
+3) Pensar un 70% lo que va hacer y luego escribirlo.
