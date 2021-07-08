@@ -1,0 +1,24 @@
+1) Imprimir 'Aprendiendo python' por pantalla.
+2) Crear dos variables numericas, sumarlas y mostrar el resultado.
+3) Mostrar el precio del IVA de un producto con un valor dado por parametro.
+4) De dos numeros, saber cual es el mayor.
+5) Crea un variable numerica y si esta entre 0 y 10, mostrar una mensaje indicandolo.
+6) Añadir añadir a ejercicio anterior, que si esta entre 11 y 20, mustro otro mensaje diferente y si esta entre 21 y 30 otro mensaje.
+7) Mostrar con un bucle while los numeros del 1 al 100.
+8) Mostrar con un for los numeros del 1 al 100.
+9) Mostrar los caracteres de la cadena 'aprendiendo python.
+10) Mostrar los numeros pares entre 1 al 100.
+11) Generar un rango entre 0 y 10.
+12) Generar un numero entre 5 y 10.
+13) Generar un rango de 10 a 0.
+14) Generar un rango de 0 a 10 y de 15 a 20, incluidos 10 y 20.
+15) Generar un rango desde 0 hasta la longitud de la cadena 'hola mundo'.
+16) Pide dos cadenas por teclado, muestra ambas cadenas con un espacio entre ella y con los 2 primeros caracteres intercambiados. por ejemplo, hola mundo pasaria a mola hundo.
+17) Pide un cadena e indica si es un palindro o no.
+18) generar un numero aleatorio entre el 1 al 100
+19) Juguemos al juego de adivinar el numero, generaremos un numero entre 1 y 100.
+nuestro objetivo es adivinar el numero. 
+si fallamos nos diran si es mayor o menor que numero buscado
+20) Crea un diccionario donde la clave sea el nombre del usuario y el valor sea el teléfono (no es necesario validar). Tendrás que ir pidiendo contactos hasta el usuario diga que no quiere insertar mas. No se podrán meter nombres repetidos.
+21) Crea una tupla con números e indica el numero con mayor valor y el que menor tenga.
+22) Pide un numero por teclado y guarda en una lista su tabla de multiplicar hasta el 10. Por ejemplo, si pide el 5 la lista tendrá: 5,10,15,20,25,30,35,40,45,50
